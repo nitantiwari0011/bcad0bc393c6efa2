@@ -1,0 +1,12 @@
+Video URL:
+https://nitantiwari0011.github.io/player/?list=https://raw.githubusercontent.com/nitantiwari0011/bcad0bc393c6efa2/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://nitantiwari0011.github.io/player/?list=https://raw.githubusercontent.com/nitantiwari0011/bcad0bc393c6efa2/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+
+Thumbnail URL:
+https://i.ibb.co/0Rq34rG0/Toonworld4all-Jo-Jo-s-Bizarre-Adventure-S01-E08-1080p-x265-10bit-BDRip-Hindi-Eng-Jap-ESub-thumbnai.jpg
+
+Subtitles:
+  - eng (Signs / Songs): https://pub-02a3a857ed68473582dbf7ab469a3932.r2.dev/subtitles/5369b837803387f1_eng_0.srt
+  - eng (English): https://pub-02a3a857ed68473582dbf7ab469a3932.r2.dev/subtitles/b3459adde95ec936_eng_1.srt
